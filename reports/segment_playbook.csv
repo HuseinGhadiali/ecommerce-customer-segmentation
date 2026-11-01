@@ -1,0 +1,8 @@
+segment,customers,avg_recency_days,avg_orders,avg_spend,customer_pct,revenue_pct,action
+Champions,3267,64.4,5.9,4467.5,6.5,19.3,"Early access to launches, referral programme, no discounts needed"
+Loyal,4725,160.3,3.8,2817.8,9.4,17.6,"Bundles and subscriptions (skincare replenishment), loyalty points"
+Potential Loyalist,4295,65.6,2.0,1462.2,8.5,8.3,Second-purchase nudge at day 30-45 with a cross-sell from their category
+New,10436,65.8,1.0,739.0,20.7,10.2,"Onboarding series: how-to content, review request, prepaid incentive"
+At Risk,6873,401.7,2.0,1500.0,13.6,13.6,"Win-back: personalised offer on their last category, before day 120"
+Can't Lose Them,3204,445.3,4.0,3109.4,6.4,13.1,"High-value lapsed: call / WhatsApp from CX, strongest offer"
+Hibernating,17589,419.8,1.0,773.4,34.9,18.0,"Low-cost channels only (email, WhatsApp broadcast) during sale events"
